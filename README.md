@@ -54,11 +54,9 @@ cd modern-portfolio
 pnpm install
 
 **Development**
-pnpm dev
+npm run dev
 Open http://localhost:3000 to see your portfolio in action.
-Build for Production:
-pnpm build
-pnpm start
+
 
 ✍️ Customization
 Modify app/page.tsx and portfolio.tsx to update your homepage.
